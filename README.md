@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Withr-code
 - 👀 I’m interested in videogames development
 - 🌱 I’m currently learning C# & Unity
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate with @HolyMonkey
 - 📫 How to reach me ...
 
 <!---
